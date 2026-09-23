@@ -3,7 +3,7 @@
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
 | 23/09/2026 | Two Sum | Arrays & Strings | Easy | ✅ Solved | 45 min |
-|  | Reverse a String | Arrays & Strings | Easy | ⬜ Not Started |  |
+| 23/09/2026 | Reverse a String | Arrays & Strings | Easy | ✅ Solved | 15 min |
 |  | Valid Anagram | Arrays & Strings | Easy | ⬜ Not Started |  |
 |  | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | ⬜ Not Started |  |
 |  | Longest Common Prefix | Arrays & Strings | Easy | ⬜ Not Started |  |
